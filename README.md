@@ -1,7 +1,6 @@
 # EnergyAPIStuff
 
-Setup:
-run
+Setup
 ```
 npm i
 ```
