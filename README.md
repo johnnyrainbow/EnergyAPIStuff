@@ -10,4 +10,4 @@ Running the script:
 npm start
 ```
 
-Raw, and formatted data printed to console
+Raw & formatted data printed to console
