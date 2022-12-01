@@ -1,0 +1,15 @@
+{
+  "name": "gab_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "energy_data.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
